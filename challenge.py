@@ -33,7 +33,7 @@ def mean_list():
 
 # Put the car class here
 class Car:
-    def __init__():
+    def __init__(self):
         return
 
 def create_car():
