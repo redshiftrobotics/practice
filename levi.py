@@ -63,7 +63,7 @@ class Car:
         self.year = x
 
 def create_car():
-    my_car = Car()
+    my_car = Car("red", "Ford", 2020)
 
     my_car.set_color("red")
 
@@ -97,5 +97,7 @@ print(area_square(3))
 numbers(1, 100)
 
 print(passing_grade(92))
+
+create_car()
 
 print(fibonacci())
