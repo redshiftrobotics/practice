@@ -9,25 +9,19 @@ def multiply_numbers():
 
 def area_square(side_length):
     # Your code here
-
-    area = 0
-    return area
+    return
 
 def numbers():
     # Your code here
     return
 
-def passing_grade(score):
+def passing_grade(percent):
     # Your code here
-
-    grade = 0
-    return grade
+    return
 
 def mean_list():
     # Your code here
-
-    mean = 0
-    return mean
+    return
 
 
 
